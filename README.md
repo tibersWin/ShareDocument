@@ -40,6 +40,8 @@ Show all recent](http://android-arsenal.com/)
 [使用Flexible实现手淘H5页面的终端适配](http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)  
 [CSS清除浮动的8种方法](http://www.webclks.com/archives/3618)  
 [webpack 教程资源收集](https://github.com/kraaas/webpack-tutorial-collection)
+[微信应用号官方IDE]https://github.com/gavinkwoe/weapp-ide-crack  
+[微信应用号-MINA框架简易教程]http://wxopen.notedown.cn/  
 ##Java后台
 [Intellij idea 使用教程 包括安装，配置，使用，插件等](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)  
 [Mybatis通用Mapper] (http://blog.csdn.net/isea533/article/details/41457529)  
